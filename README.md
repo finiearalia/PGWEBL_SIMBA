@@ -3,7 +3,7 @@
 SIMBA atau Sistem Informasi Museum Bantul merupakan produk layanan yang memberikan informasi terkait permuseuman yang terdapat di Kabupaten Bantul. 
 Produk ini dibuat dengan tujuan untuk penyebaran informasi serta sarana promosi museum yang terdapat di Kabupaten Bantul dalam rangka membangun jejaring komunitas museum yang berkarakter dan berbudaya.
 
-**Komponen Pembangun Produk**
+**Komponen Pembangun Produk** 
 
 **Laravel**
 Framework yang digunakan untuk penyusunan website menggunakan bahasa PHP.
