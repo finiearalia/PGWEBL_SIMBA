@@ -23,7 +23,9 @@ https://wkmdisbuddiy.jogjaprov.go.id/museum/index?id=10
 **Link demo produk**
 https://youtu.be/Bjwltv67tUA 
 
-Tangkapan Layar Komponen Produk
+
+**Tangkapan Layar Komponen Produk**
+
 <img width="913" alt="image" src="https://github.com/finiearalia/PGWEBL_SIMBA/assets/109891820/dac82599-3594-48af-a41d-6ea42def765b"> _tampilan landing page_
 <img width="881" alt="image" src="https://github.com/finiearalia/PGWEBL_SIMBA/assets/109891820/0d683fde-dbb4-458a-ae9b-fc796a48e9f6"> _tampilan landing page_
 <img width="901" alt="image" src="https://github.com/finiearalia/PGWEBL_SIMBA/assets/109891820/edf869a9-d986-4f4b-8715-88c3dec2258d"> _tampilan landing page_
