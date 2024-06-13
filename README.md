@@ -7,12 +7,16 @@ Produk ini dibuat dengan tujuan untuk penyebaran informasi serta sarana promosi 
 
 **Laravel**
 Framework yang digunakan untuk penyusunan website menggunakan bahasa PHP.
+
 **Bootstrap**
 Elemen pada Bootstrap membantu dalam penyusunan website sehingga layout yang dihasilkan lebih menarik serta responsif.
+
 **Leaflet JS**
 Menampilkan basemap dan membantu peta lebih interaktif.
+
 **Geoserver & QGIS** 
 Digunakan untuk menangani data geospasial yang terdapat pada website.
+
 **PostgreSQL**
 Digunakan untuk mengelola dan menyimpan data titik museum yang telah ditambahkan ke dalam website ini.
 
