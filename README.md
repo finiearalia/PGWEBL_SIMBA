@@ -4,16 +4,23 @@ SIMBA atau Sistem Informasi Museum Bantul merupakan produk layanan yang memberik
 Produk ini dibuat dengan tujuan untuk penyebaran informasi serta sarana promosi museum yang terdapat di Kabupaten Bantul dalam rangka membangun jejaring komunitas museum yang berkarakter dan berbudaya.
 
 **Komponen Pembangun Produk**
-Laravel 
-Bootstrap
-Leaflet.js
-Geoserver
+
+**Laravel**
+Framework yang digunakan untuk penyusunan website menggunakan bahasa PHP.
+**Bootstrap**
+Elemen pada Bootstrap membantu dalam penyusunan website sehingga layout yang dihasilkan lebih menarik serta responsif.
+**Leaflet JS**
+Menampilkan basemap dan membantu peta lebih interaktif.
+**Geoserver & QGIS** 
+Digunakan untuk menangani data geospasial yang terdapat pada website.
+**PostgreSQL**
+Digunakan untuk mengelola dan menyimpan data titik museum yang telah ditambahkan ke dalam website ini.
 
 **Sumber data**
 Informasi serta titik persebaran museum didapatkan melalui laman milik Dinas Kebudayaan Daerah Istimewa Yogyakarta 
 https://wkmdisbuddiy.jogjaprov.go.id/museum/index?id=10 
 
-Link demo produk :
+**Link demo produk**
 https://youtu.be/Bjwltv67tUA 
 
 Tangkapan Layar Komponen Produk
